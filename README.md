@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a (functional) human being ∩ programmer ∩ sailor ∩ tinkerer, currently residing in Germany.
+
+- 🔭 Interests: functional programming, rust, scala
+- 📫 How to reach me: vladimir [at] solidninja [dot] [the verb 'to be' in the third-person singular]
+- 😄 Pronouns: he/him (also responds to the royal we)
+- 👤 https://www.linkedin.com/in/vladimir1/
