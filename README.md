@@ -21,3 +21,4 @@ I am a (functional) human being ∩ programmer ∩ sailor ∩ tinkerer, currentl
 - 📫 How to reach me: vladimir [at] solidninja [dot] [the third-person singular of 'to be']
 - 😄 Pronouns: he/him (also responds to the royal we)
 - 👤 https://www.linkedin.com/in/vladimir1/
+- 📣 https://hachyderm.io/@vladimir_lu
