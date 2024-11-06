@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a (functional) human being ∩ programmer ∩ sailor ∩ tinkerer, currently residing in England.
+Former github account. I am a (functional) human being ∩ programmer ∩ sailor ∩ tinkerer, currently residing in England.
 
 - 🔭 Interests: consistency, data privacy, functional programming, rust, safety, scala, security, type systems
 - 📫 How to reach me: ww094szjg@mozmail.com
 - 😄 Pronouns: he/him (also responds to the royal we)
-- 👤 https://www.linkedin.com/in/vladimir1/
-- 📣 https://hachyderm.io/@vladimir_lu
